@@ -1,0 +1,6 @@
+{
+  "name": "Paper Trading Arena",
+  "description": "A paper-trading simulator and decision lab that records the belief, reasoning, confidence, and reflection behind every trade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
